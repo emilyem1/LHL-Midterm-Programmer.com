@@ -1,6 +1,6 @@
-# "Programmer" - Buy/Sell Listings Site
+# "Programmer.com" - Buy/Sell Listings Site
 
-Programmer is a full stack web application built with Node and Express that connects buyers and sellers of tech-services and skills.
+Programmer.com is a full stack web application built with Node and Express that connects buyers and sellers of tech-services and skills.
 
 ## Features
 
